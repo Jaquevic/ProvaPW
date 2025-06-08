@@ -1,0 +1,20 @@
+.titlePost {
+  color: #8f0862;
+}
+
+.authorBox {
+  margin-top: 32px;
+  padding: 16px;
+  border: 1px solid #f7a4c3;
+  border-radius: 8px;
+}
+
+.authorTitle {
+  color: #d11d95;
+  margin-bottom: 16px;
+}
+
+.authorLabel {
+  color: #cf0b84;
+  font-weight: bold;
+}
